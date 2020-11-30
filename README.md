@@ -1,2 +1,2 @@
 # Machine-Learning
-Analyzing, visualizing data and implemented some machine learning methods.
+Analyzing, visualizing data and implementing some machine learning methods.
